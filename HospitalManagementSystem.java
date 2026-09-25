@@ -78,7 +78,7 @@ public class HospitalManagementSystem {
 	
 	private static final String URL = "jdbc:mysql://localhost:3306/hospital";
 	private static final String Username = "root";
-	private static final String Passward = "Venky@007";
+	private static final String Passward = "Shiva@011";
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
