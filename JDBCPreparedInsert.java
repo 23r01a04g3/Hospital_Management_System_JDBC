@@ -17,7 +17,7 @@ public class JDBCPreparedInsert {
 		String URL = "jdbc:mysql://localhost:3306/JDBCMySQL";	
 		
 		String Username = "root";
-		String Passward = "Venky@007";
+		String Passward = "Shiva@011";
 		
 		String Query = "insert into students(id,name,dept) values (?,?,?)";
 		try {
