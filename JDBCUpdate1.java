@@ -16,7 +16,7 @@ public class JDBCUpdate1 {
 		String URL = "jdbc:mysql://localhost:3306/JDBCMySQL";
 		
 		String Username = "root";
-		String Passward = "Venky@007";
+		String Passward = "Shiva@011";
 		
 		String UpdateRecord = "UPDATE Students SET Name = 'Ram' WHERE id=2";
 		
