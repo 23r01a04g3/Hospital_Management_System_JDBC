@@ -12,7 +12,7 @@ public class StatementJDBC {
 		// TODO Auto-generated method stub
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		
-		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/JDBCMySQL","root","Venky@007");
+		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/JDBCMySQL","root","Shiva@011");
 		
 		Statement stmt = con.createStatement();
 		
